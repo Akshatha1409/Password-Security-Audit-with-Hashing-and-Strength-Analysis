@@ -14,7 +14,8 @@ This tool highlights common weaknesses and shows how passwords should be stored 
 - Cryptographic Hashing
 
 ## Sample Output
-akshatha2022
+
+akshatha2022 - 
 
 Weak Password: 
 - Missing upperacse letter
