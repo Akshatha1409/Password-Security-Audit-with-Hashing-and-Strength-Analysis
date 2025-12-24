@@ -1,4 +1,3 @@
-# Password-Security-Audit-with-Hashing-and-Strength-Analysis
 # Password Security Audit Tool
 
 This project demonstrates a simple password security audit by validating password strength and securely hashing it using SHA-256.
