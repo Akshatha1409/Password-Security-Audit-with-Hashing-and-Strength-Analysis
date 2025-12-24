@@ -14,12 +14,13 @@ This tool highlights common weaknesses and shows how passwords should be stored 
 - Cryptographic Hashing
 
 ## Sample Output
-Weak Password:
-- Missing uppercase letter
-- Missing special character
+akshatha2022
+Weak Password: 
+- Missing upperacse letter
+- Missing special characters
 
-SHA-256 Hash:
-e99a18c428cb38d5f260853678922e03...
+ SHA256 Hash:
+138a02e9ecb42f3ec1a68ed03cb444fb6426ff2194368489f6ad43226b1e3271
 
 ## Future Improvements
 - Add bcrypt hashing
